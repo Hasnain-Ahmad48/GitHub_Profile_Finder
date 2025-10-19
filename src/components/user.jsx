@@ -1,3 +1,5 @@
+
+
 export default function User({user}) {
   const {
     avatar_url,
